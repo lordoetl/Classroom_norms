@@ -1,2 +1,2 @@
 # Classroom_norms
-Manual for incoming students
+Manual for dataviz students
