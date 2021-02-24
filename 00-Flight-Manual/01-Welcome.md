@@ -1,6 +1,6 @@
 # Flight Manual
 
-Welcome to University of California's Data Analytics and Visualization Bootcamp!
+Welcome to University of California - Irvine's Data Analytics and Visualization Bootcamp!
 
 ## About Flight Manual
 
