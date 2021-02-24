@@ -28,3 +28,13 @@ Watch this video for a step-by-step guide: https://trilogyed.wistia.com/medias/l
 4. *Include a screenshot.* Sometimes, seeing the issue in context helps us solve the problem. 
 5. *Include a screencast.* If the bug is an issue that only occurs when you interact with a page, it may be helpful to record a video of that interaction. 
 
+## Table of Contents
+
+01.[Welcome](01-Welcome.md)<br>
+02.[Online Class Norms](02-Online-Class-Norms.md)<br>
+03.[Breakout Room Norms](03-Breakout-Room-Norms.md)<br>
+04.[Slack Norms](04-Slack-Norms.md)<br>
+05.[Keyboard Glossary](05-Keyboard-Glossary.md)<br>
+06.[Keyboard Shortcuts](06-Keyboard-Shortcuts.md)<br>
+07.[Resources](07-Resources.md)<br>
+08.[Getting Help](08-Getting-Help.md)<br>
