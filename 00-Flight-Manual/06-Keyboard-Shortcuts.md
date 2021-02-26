@@ -25,7 +25,8 @@ In addition to improving your typing speed, learning to use keyboard shortcuts w
 * CMD + Z - Undo
 * CMD + F - Find
 * CMD + T - New Tab
-* CMD + Tab - Switch between applications. 
+* CMD + Tab - Switch between applications
+* CMD + / - most IDE's will comment line 
 
 - https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
 
@@ -38,6 +39,7 @@ In addition to improving your typing speed, learning to use keyboard shortcuts w
 * Ctl + F - Find
 * Ctl + T - New Tab
 * Alt + Tab - Switch between applications. 
+* Ctl + / - most IDE's will comment line 
 
 - https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 
