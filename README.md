@@ -3,7 +3,7 @@ Manual for dataviz students
 
 ## Table of Contents
 
-01.[Welcome](01-Welcome.md)<br>
+01.[Welcome](00-Flight-Manual/01-Welcome.md)<br>
 02.[Online Class Norms](02-Online-Class-Norms.md)<br>
 03.[Breakout Room Norms](03-Breakout-Room-Norms.md)<br>
 04.[Slack Norms](04-Slack-Norms.md)<br>
