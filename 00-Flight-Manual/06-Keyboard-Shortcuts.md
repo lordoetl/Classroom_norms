@@ -16,7 +16,11 @@ The keys you use for coding are often different the keys commonly used when typi
 
 ## Shortcut Combos
 In addition to improving your typing speed, learning to use keyboard shortcuts will drastically improve your coding speed. Here are some of the more common shortcuts. 
+<br>
 https://mattshaw.org/projects/shortcutgame/
+<br>
+https://www.shortcutfoo.com/
+
 
 ### Mac
 
@@ -30,7 +34,7 @@ https://mattshaw.org/projects/shortcutgame/
 * CMD + / - most IDE's will comment line 
 
 - https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
-- https://mattshaw.org/projects/shortcutgame/
+
 
 ### Windows
 
