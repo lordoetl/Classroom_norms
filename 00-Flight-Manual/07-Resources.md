@@ -24,6 +24,19 @@ Below, find a list of resources we recommend throughout the cohort.
 ## How to Google
 - https://dev.to/denicmarko/google-like-a-pro-5cf6
 
+## Example folder setup for smooth class work flow
+
+- Step 1 : On Windows, open a GitBash window, on Mac, open a Terminal Window
+- Step 2 : Navigate to your "Home" folder with following command : cd ~
+- Step 3 : Create a folder for your classwork and homework : mkdir DataClass
+- Step 4 : Navigate to your class folder : cd ~/DataClass
+ - Step 5 : Clone the class GitLab repository : git clone git@uci.bootcampcontent.com:UCI-Coding-Bootcamp/uci-irv-data-pt-06-2021-u-c.git
+- Step 6 : Navigate in to the class repo : cd uci-irv-data-pt-06-2021-u-c
+- Step 7 : "Pull" the latest from the class repo : git pull
+- Step 8 : Using the Windows File Explorer or Mac Finder, add your DataClass folder and your uci-irv-data-pt-06-2021-u-c folder to your Quick Access list or Favorites list respectively.
+
+** If any issues or questions, we can address during office hours.
+
 ## Visual Studio Code
 
 ### VS Code Extensions
