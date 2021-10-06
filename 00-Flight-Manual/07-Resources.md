@@ -37,6 +37,9 @@ Below, find a list of resources we recommend throughout the cohort.
 
 ** If any issues or questions, we can address during office hours.
 
+## CheatSheets to ...well... everything.
+[**CheatSheets to all**](https://overapi.com/)
+
 ## Visual Studio Code
 
 ### VS Code Extensions
