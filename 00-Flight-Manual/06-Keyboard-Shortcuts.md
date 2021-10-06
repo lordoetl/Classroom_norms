@@ -5,21 +5,21 @@ Improving your typing speed is eential to being a good data professional.
 
 Some resources to consider: 
 
-### Nitro Type - https://www.nitrotype.com/
+### [Nitro Type](https://www.nitrotype.com/)
 Fun, race car themed application to test your typing speed. 
 
-### Keybr - https://www.keybr.com/
+### [Keybr](https://www.keybr.com/)
 Site designed to teach you "touch typing." No more "hunt-and-peck." 
 
-### typing.io - https://typing.io/
+### [typing.io](https://typing.io/)
 The keys you use for coding are often different the keys commonly used when typing English. Your English typing speed typically drops by 30% when typing code. Get practice with specific syntax here. I recommend the JavaScript jQuery track.
 
 ## Shortcut Combos
 In addition to improving your typing speed, learning to use keyboard shortcuts will drastically improve your coding speed. Here are some of the more common shortcuts. 
 <br>
-https://mattshaw.org/projects/shortcutgame/
+[Shortcut Game](https://mattshaw.org/projects/shortcutgame/)
 <br>
-https://www.shortcutfoo.com/
+[Anohter way to practice keyboard shortcuts](https://www.shortcutfoo.com/)
 
 
 ### Mac
@@ -33,7 +33,7 @@ https://www.shortcutfoo.com/
 * CMD + Tab - Switch between applications
 * CMD + / - most IDE's will comment line 
 
-- https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
+- [VS Code shortcuts for Mac](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 
 
 ### Windows
@@ -47,7 +47,7 @@ https://www.shortcutfoo.com/
 * Alt + Tab - Switch between applications. 
 * Ctl + / - most IDE's will comment line 
 
-- https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+- [VS Code shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
 
 ## Table of Contents
