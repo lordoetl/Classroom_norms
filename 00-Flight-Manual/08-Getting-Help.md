@@ -14,12 +14,12 @@ The slack channels `01-ask-the-class` and `04-homework_support` are provided for
 ### Tutoring Sessions
 As part of your program fees, a tutor is available to you at no additional cost. To register for a tutor, please sign in the BCS, select "Support" from the nav menu, and select "Tutor Request" from the "QUESTION CATEGORY" dropdown menu. 
 
-Video Guide: https://drive.google.com/file/d/18K5YVy7h_Wr5QFvBKrOyVgMpoLy7-UJw/view
+[Video Guide for Tutoring Sign up](https://drive.google.com/file/d/18K5YVy7h_Wr5QFvBKrOyVgMpoLy7-UJw/view)
 
 ### AskBCS Learning Assistants in Slack
 AskBCS Learning Assistant is an application within Slack. You can use AskBCS Learning Assistants to submit curriculum-based questions to a live person during normal operating hours. 
 
-Watch this video for a step-by-step guide: https://trilogyed.wistia.com/medias/ld3rvxv21c
+[Watch this video for a step-by-step guide](https://trilogyed.wistia.com/medias/ld3rvxv21c)
 
 ## Overall Principles
 1. *Read AND Google the error message first.* Most error messages have already been solved on the internet. Search for it!
