@@ -5,11 +5,11 @@
 * A second monitor is recommended(you will be ok, with just one). 
 
 ## Attendance and Timeliness
-* The zoom link will become active at the start of optional office hours.
+* The zoom link will become active at the start of office hours.
 * Class instruction will begin on time or within a minute or two of the scheduled start time. 
 * Students who arrive more than 45 minutes after the start of class, or leave more than 45 minutes before the end of class will be marked absent. 
-* If you are late or absent, video recordings of class will be posted in BCS the day after class for your review.
-* Remember to mark your attendance in BCS when you log into zoom.
+* If you are late or absent, video recordings of class will be posted the day after class for your review.
+* Remember to mark your attendance
 * In the unlikely event that you forget to sign in, you can contact a TA to resolve the issue. If the error is recognized after the day of, you will need to reach out to @Admin1. 
 
 ## Zoom and Screenshare
@@ -27,7 +27,7 @@
 * Outside of class and after hours, you should utilize the **#02-ask-the-class**  and/or **#04-homework-support** channel to receive assistance from your classmates. 
 
 ## Office Hours
-* Office hours are optional and available for you to get personalized assistance from the instructional staff. Take advantage of this. 
+* Office hours are available for you to get personalized assistance from the instructional staff. Take advantage of this. 
 * Use the calendly link [Schedule Office Hours with TA](https://calendly.com/anthony-dataviz/office-hours-with-ta) to schedule time with a TA
 * Additionally, scheduled activities in the main room may include: 
     * Review sessions
@@ -41,7 +41,7 @@
     * Randomized questions.
 
 ## Homework
-* Homework is graded by the Centralized Grading Team. It is your responsibility to watch BCS for any Incomplete assignments. Incomplete assignments are assignments that cannot be graded and count against your graduation requirements. 
+* Homework is graded by the Centralized Grading Team. It is your responsibility to watch for any Incomplete assignments. Incomplete assignments are assignments that cannot be graded and count against your graduation requirements. 
 * In the event that you receive an Incomplete, you may request a homework regrade by submitting the following form:******** before the date assigned to you by your SSM.
 
 ## Table of Contents
