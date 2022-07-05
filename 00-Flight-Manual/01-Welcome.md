@@ -1,10 +1,10 @@
 # Flight Manual
 
-Welcome to University of California - Irvine's Data Analytics and Visualization Bootcamp!
+Welcome to University of California - Irvine's Data Analytics Bootcamp!
 
 ## About Flight Manual
 
-The Flight Manual is your guide to everything course related, but NOT about coding. You will be expected to read and use this throughout the course. 
+This manual is your guide to everything course related, but NOT about coding. You will be expected to read and use this throughout the course. 
 
 ## Acronyms
 
