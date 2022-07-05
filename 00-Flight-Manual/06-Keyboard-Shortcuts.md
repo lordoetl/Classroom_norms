@@ -1,7 +1,7 @@
 # Keyboard Shortcuts
 
 ## Typing Speed
-Improving your typing speed is eential to being a good data professional. 
+Improving your typing speed is esential to being a good data professional. 
 
 Some resources to consider: 
 
