@@ -12,9 +12,9 @@ The instructional staff is not available outside of regular class hours. To rece
 The slack channels `01-ask-the-class` and `04-homework_support` are provided for you as resources to ask your fellow classmates for assistance. Oftentimes, simply taking the time to write out your question helps you find your error. This is part of rubber-duck debugging. https://rubberduckdebugging.com/
 
 ### Tutoring Sessions
-As part of your program fees, a tutor is available to you at no additional cost. To register for a tutor, please sign in the BCS, select "Support" from the nav menu, and select "Tutor Request" from the "QUESTION CATEGORY" dropdown menu. 
+As part of your program fees, a tutor is available to you at no additional cost. To register for a tutor, please reachout to @Admin1 in slack
 
-[Video Guide for Tutoring Sign up](https://drive.google.com/file/d/18K5YVy7h_Wr5QFvBKrOyVgMpoLy7-UJw/view)
+
 
 ### AskBCS Learning Assistants in Slack
 AskBCS Learning Assistant is an application within Slack. You can use AskBCS Learning Assistants to submit curriculum-based questions to a live person during normal operating hours. 
