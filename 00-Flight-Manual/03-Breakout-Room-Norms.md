@@ -14,6 +14,7 @@ Breakout rooms will be organized in several different ways, depending on the act
 5. Instructional staff will bounce from between breakout rooms to check progress, answer questions, and offer guidance.
 6. If additional help is required, please request assistance via the Request Help button in your breakout room
    a. If no one comes in a timely manner also reach out on **02-activities** slack channel.
+7. While breakouts are a wonderful way to help your fellow students, it is not expected or desired that you come to the breakout room with the activity already complete. The activities should always be done (or at the very least reviewed during the activity).
 
 
 ## Table of Contents
