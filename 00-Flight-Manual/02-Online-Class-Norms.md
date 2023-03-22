@@ -22,9 +22,9 @@
 * All questions are important and valid, but not all questions are attached to that day's objectives. 
 * If you have a question related to the lecture, please raise your hand in Zoom participants tab. 
 * When called upon, unmute your mic and ask. 
-* You can also use Slack **#ask-the-class** to ask questions not directly related to the topic at hand.
+* You can also use Slack **#02-ask-the-class** to ask questions not directly related to the topic at hand.
 * If the instructor feels the question is not best addressed right then, he may ask you to direct it to slack for later attention. 
-* Outside of class and after hours, you should utilize the **#02-ask-the-class**  and/or **#04-homework-support** channel to receive assistance from your classmates. 
+* Outside of class and after hours, you should utilize the **#02-ask-the-class**  channel to receive assistance from your classmates. 
 
 ## Office Hours
 * Office hours are available for you to get personalized assistance from the instructional staff. Take advantage of this. 
