@@ -28,10 +28,10 @@ Below, find a list of resources we recommend throughout the cohort.
 - Step 2 : Navigate to your "Home" folder with following command : cd ~
 - Step 3 : Create a folder for your classwork and homework : mkdir DataClass
 - Step 4 : Navigate to your class folder : cd ~/DataClass
- - Step 5 : Clone the class GitLab repository : git@uci.bootcampcontent.com:UCI-Coding-Bootcamp/UCI-VIRT-DATA-PT-07-2022-U-LOLC.git
+ - Step 5 : Clone the class GitLab repository : git@uci.bootcampcontent.com:UCI-Coding-Bootcamp/UCI-VIRT-DATA-PT-03-2023-U-LOLC.git
 - Step 6 : Navigate in to the class repo : cd UCI-VIRT-DATA-PT-07-2022-U-LOLC
 - Step 7 : "Pull" the latest from the class repo : git pull
-- Step 8 : Using the Windows File Explorer or Mac Finder, add your DataClass folder and your UCI-VIRT-DATA-PT-07-2022-U-LOLC folder to your Quick Access list or Favorites list respectively.
+- Step 8 : Using the Windows File Explorer or Mac Finder, add your DataClass folder and your UCI-VIRT-DATA-PT-03-2023-U-LOLC folder to your Quick Access list or Favorites list respectively.
 
 ** If any issues or questions, we can address during office hours.
 
