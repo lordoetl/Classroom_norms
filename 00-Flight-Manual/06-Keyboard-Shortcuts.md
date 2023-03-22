@@ -19,7 +19,7 @@ In addition to improving your typing speed, learning to use keyboard shortcuts w
 <br>
 [Shortcut Game](https://mattshaw.org/projects/shortcutgame/)
 <br>
-[Anohter way to practice keyboard shortcuts](https://www.shortcutfoo.com/)
+[Another way to practice keyboard shortcuts](https://www.shortcutfoo.com/)
 
 
 ### Mac
