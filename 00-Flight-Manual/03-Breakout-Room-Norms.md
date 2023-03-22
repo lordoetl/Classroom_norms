@@ -13,7 +13,7 @@ Breakout rooms will be organized in several different ways, depending on the act
 4. The “coder” will not necessarily drive the activity. Instead they will rely on guidance from the others in the group to complete the task. The “coder” can initiate writing code independently after verbally explaining their intentions to the rest of the group.
 5. Instructional staff will bounce from between breakout rooms to check progress, answer questions, and offer guidance.
 6. If additional help is required, please request assistance via the Request Help button in your breakout room
-   a. If no one comes in a timely manner also reach out on **02-activities** slack channel.
+   a. If no one comes in a timely manner also reach out on **01-live** slack channel.
 7. While breakouts are a wonderful way to help your fellow students, it is not expected or desired that you come to the breakout room with the activity already complete. The activities should always be done (or at the very least reviewed during the activity).
 
 
