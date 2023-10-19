@@ -6,7 +6,7 @@ Slack is a tool just like any other. The more you use it, the better you will be
 If you are not familiar with slack, I encourage you to watch this short video: https://youtu.be/b_biMJibhl8
 
 ## Slack Channels and Their Purpose
-- #-class-reminders - This is for announcements only, please do not reply or ask questions in this channel.
+- #-announcements - This is for announcements only, please do not reply or ask questions in this channel.
 - #-general - general class related commentary or links
 - #01-live - Class work (discussion about class activities both durring and outside of class time)
 - #02-community-ask - Ask your fellow classmates a question. Great for after-hours. May not be monitored by Instructional Staff (but usually is).
