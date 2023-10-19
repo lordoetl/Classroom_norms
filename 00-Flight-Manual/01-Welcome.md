@@ -1,6 +1,6 @@
 # Flight Manual
 
-Welcome to University of California - Irvine's Data Analytics Bootcamp!
+Welcome to Denver University - AI Bootcamp!
 
 ## About Flight Manual
 
