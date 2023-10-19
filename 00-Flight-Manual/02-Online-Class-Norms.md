@@ -10,7 +10,7 @@
 * Students who arrive more than 45 minutes after the start of class, or leave more than 45 minutes before the end of class will be marked absent. 
 * If you are late or absent, video recordings of class will be posted the day after class for your review.
 * Remember to mark your attendance
-* In the unlikely event that you incorrectly marked absent, you can contact a TA to resolve the issue. If the error is recognized after the day of, you will need to reach out to @Admin1. 
+* In the unlikely event that you incorrectly marked absent, you can contact a TA to resolve the issue. If the error is recognized after the day of, you will need to reach out to educational team. 
 
 ## Zoom and Screenshare
 * Everyone’s video should **always** be on during class! *(Video can be turned off during breaks/lunch)*
