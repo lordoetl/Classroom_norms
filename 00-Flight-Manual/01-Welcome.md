@@ -8,7 +8,7 @@ This manual is your guide to everything course related, but NOT about coding. Yo
 
 ## Acronyms
 
-* SSM - Student Success Manager
+* SSA - Student Success Manager
 * TA - Teaching Assistant
 * BCS - BootCampSpot
 
