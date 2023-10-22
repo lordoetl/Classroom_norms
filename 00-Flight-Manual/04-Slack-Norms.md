@@ -12,8 +12,7 @@ If you are not familiar with slack, I encourage you to watch this short video: h
 - #02-community-ask - Ask your fellow classmates a question. Great for after-hours. May not be monitored by Instructional Staff (but usually is).
 - #03-resources - Resources to help you on your way.  This is probably the best channel for you to keep up with the class materials.  Resources are posted at least once for every class and sometimes other resources become available.
 - #04-homework support - Similar to "ask-the-class" but just for homework discussions.  May not be monitored by Instructional Staff (but usually is)
-- #06-Unit_overviews - Resources for upcoming sessions (These tend to be longer then the ones provided in **#03-Resources**)
-- #07-Career_Services - Information about Career Services.
+- #07-Career_Services - Information about Career Services.(will appear later)
 - **These next few channels vary, but expect most of them and possible others**
 - image_intros - post a picture of yourself that tells the class a little about you!
 - extra_reviews - periodically we will have "extra" reviews that will cover both class materials and materials that are "bonus" from your instructional team.  This channel communicates these reviews.
