@@ -28,10 +28,10 @@ Below, find a list of resources we recommend throughout the cohort.
 - Step 2 : Navigate to your "Home" folder with following command : cd ~
 - Step 3 : Create a folder for your classwork and homework : mkdir DataClass
 - Step 4 : Navigate to your class folder : cd ~/DataClass
- - Step 5 : Clone the class GitLab repository : git@uci.bootcampcontent.com:UCI-Coding-Bootcamp/UCI-VIRT-DATA-PT-03-2023-U-LOLC.git
-- Step 6 : Navigate in to the class repo : cd UCI-VIRT-DATA-PT-03-2023-U-LOLC
+ - Step 5 : Clone the class GitLab repository : [git@uci.bootcampcontent.com:UCI-Coding-Bootcamp/UCI-VIRT-DATA-PT-03-2023-U-LOLC.git](https://git.bootcampcontent.com/University-of-Denver/DU-VIRT-AI-PT-10-2023-U-LOLC)
+- Step 6 : Navigate in to the class repo : cd DU-VIRT-AI-PT-10-2023-U-LOLC
 - Step 7 : "Pull" the latest from the class repo : git pull
-- Step 8 : Using the Windows File Explorer or Mac Finder, add your DataClass folder and your UCI-VIRT-DATA-PT-03-2023-U-LOLC folder to your Quick Access list or Favorites list respectively.
+- Step 8 : Using the Windows File Explorer or Mac Finder, add your DataClass folder and your DU-VIRT-AI-PT-10-2023-U-LOLC folder to your Quick Access list or Favorites list respectively.
 
 ** If any issues or questions, we can address during office hours.
 
@@ -69,19 +69,6 @@ You do NOT need the links, they are there for reference only.
 
 - [Great Markdown tutorial (requires signup)](https://masteringmarkdown.com/)
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet)
-
-
-## CSS
-- [Advanced CSS (Not covered in DataViz](https://flexbox.io/)
-- [More advanced CSS (Not covered in DataViz](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [CSS Floats](https://css-tricks.com/all-about-floats/)
-- [Great Positioning explanation](https://learn.shayhowe.com/html-css/positioning-content/#uniquely-positioning-elements)
-
-
-## JavaScript
-
-- [JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
-- [Common JavaScript Brain Teaser](https://www.freecodecamp.org/news/how-to-reverse-a-string-in-javascript-in-3-different-ways-75e4763c68cb/)
 
 
 ## SQL
