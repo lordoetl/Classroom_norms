@@ -42,7 +42,7 @@
 
 ## Homework
 * Homework is graded by the Centralized Grading Team. It is your responsibility to watch for any Incomplete assignments. Incomplete assignments are assignments that cannot be graded and count against your graduation requirements. 
-* In the event that you receive an Incomplete, you may request a homework regrade by submitting the following form:******** before the date assigned to you by your SSM.
+* In the event that you receive an Incomplete, you may request a homework regrade by submitting the following form:******** before the date assigned to you.
 
 ## Table of Contents
 
