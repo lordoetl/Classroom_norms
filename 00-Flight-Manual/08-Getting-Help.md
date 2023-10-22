@@ -9,7 +9,7 @@ To get help in class during a breakout session, i.e. class activities, Click "As
 The instructional staff is not available outside of regular class hours. To receive help outside of these hours, you should be aware of the following avenues. 
 
 ### Ask the Class
-The slack channels `01-ask-the-class` and `04-homework_help` are provided for you as resources to ask your fellow classmates for assistance. Oftentimes, simply taking the time to write out your question helps you find your error. This is part of rubber-duck debugging. https://rubberduckdebugging.com/
+The slack channels `02-community-ask` and `04-homework_help` are provided for you as resources to ask your fellow classmates for assistance. Oftentimes, simply taking the time to write out your question helps you find your error. This is part of rubber-duck debugging. https://rubberduckdebugging.com/
 
 ### Tutoring Sessions
 As part of your program fees, a tutor is available to you at no additional cost. To register for a tutor, please reachout to @Admin1 in slack
