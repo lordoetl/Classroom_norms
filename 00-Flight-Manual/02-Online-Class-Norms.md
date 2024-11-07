@@ -9,9 +9,8 @@
 * Class instruction will begin on time or within a minute or two of the scheduled start time. 
 * Students who arrive more than 45 minutes after the start of class, or leave more than 45 minutes before the end of class will be marked absent. 
 * If you are late or absent, video recordings of class will be posted the day after class for your review.
-* Remember to mark your attendance
-* In the unlikely event that you incorrectly marked absent, you can contact a TA to resolve the issue. If the error is recognized after the day of, you will need to reach out to educational team. 
-
+* In the unlikely event that you incorrectly marked absent, you can contact the Teacher or a TA to resolve the issue.
+  
 ## Zoom and Screenshare
 * Everyone’s video should **always** be on during class! *(Video can be turned off during breaks/lunch)*
 * You can use Zoom’s “Virtual Background” feature to mask visual background distractions.
@@ -22,9 +21,9 @@
 * All questions are important and valid, but not all questions are attached to that day's objectives. 
 * If you have a question related to the lecture, please raise your hand in Zoom participants tab. 
 * When called upon, unmute your mic and ask. 
-* You can also use Slack **#02-community-ask** to ask questions not directly related to the topic at hand.
+* You can also use Slack **#02-ask-the-class** to ask questions not directly related to the topic at hand.
 * If the instructor feels the question is not best addressed right then, he may ask you to direct it to slack for later attention. 
-* Outside of class and after hours, you should utilize the **#02-community-ask**  channel to receive assistance from your classmates. 
+* Outside of class and after hours, you should utilize the **#02-ask-the-class**  channel to receive assistance from your classmates. 
 
 ## Office Hours
 * Office hours are available for you to get personalized assistance from the instructional staff. Take advantage of this. 
