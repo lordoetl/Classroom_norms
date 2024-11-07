@@ -1,5 +1,5 @@
 # Classroom_norms
-Manual for AI students
+Manual for Data Viz students
 
 ## Table of Contents
 
