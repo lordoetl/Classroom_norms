@@ -1,7 +1,6 @@
 # Flight Manual
 
-Welcome to Denver University - AI Bootcamp!
-
+Welcome to UTA - Data Bootcamp
 ## About Flight Manual
 
 This manual is your guide to everything course related, but NOT about coding. You will be expected to read and use this throughout the course. 
@@ -10,7 +9,7 @@ This manual is your guide to everything course related, but NOT about coding. Yo
 
 * SSA - Student Success Manager
 * TA - Teaching Assistant
-* BCS - BootCampSpot
+
 
 ## Table of Contents
 
