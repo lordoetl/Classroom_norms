@@ -28,7 +28,7 @@ Below, find a list of resources we recommend throughout the cohort.
 - Step 2 : Navigate to your "Home" folder with following command : cd ~
 - Step 3 : Create a folder for your classwork and homework : mkdir DataClass
 - Step 4 : Navigate to your class folder : cd ~/DataClass
- - Step 5 : Clone the class GitLab repository : [git@git.bootcampcontent.com:University-of-Denver/DU-VIRT-AI-PT-10-2024-U-LOLC.git](https://git.bootcampcontent.com/University-of-Denver/DU-VIRT-AI-PT-10-2023-U-LOLC)
+ - Step 5 : Clone the class GitLab repository : [git@git.bootcampcontent.com:University-of-Denver/DU-VIRT-AI-PT-10-2024-U-LOLC.git](https://git.bootcampcontent.com/University-of-Texas-at-Austin/UTA-VIRT-DATA-PT-11-2024-U-LOLC)
 - Step 6 : Navigate in to the class repo : cd DU-VIRT-AI-PT-10-2023-U-LOLC
 - Step 7 : "Pull" the latest from the class repo : git pull
 - Step 8 : Using the Windows File Explorer or Mac Finder, add your DataClass folder and your DU-VIRT-AI-PT-10-2023-U-LOLC folder to your Quick Access list or Favorites list respectively.
