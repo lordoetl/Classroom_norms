@@ -27,7 +27,7 @@
 
 ## Office Hours
 * Office hours are available for you to get personalized assistance from the instructional staff. Take advantage of this. 
-* Use the link [Schedule Office Hours with TA(https://calendar.app.google/KeQn1auntxZFGzKr7](https://calendar.google.com/calendar/u/0?cid=Y185azYycmFtOGxubjR0bTBqb2JyY2lhdDRnNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)] to schedule time with a TA
+* Use the link [Schedule Office Hours with TA(https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2n3xBJBTaENwYRD3Pt5YKhuk-MS2ipLpQPJYH7sc2vbyQURoWC38YE3Loow0-u6SvldHvFXOeM)] to schedule time with a TA
 * Additionally, scheduled activities in the main room may include: 
     * Review sessions
     * Extra-curriculuar sessions
